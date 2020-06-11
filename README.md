@@ -15,3 +15,5 @@ On by default, this converter gives a good result for high fps pictures, for exa
 If you want to apply low fps pictures such as ones taken by rapid shots by cellphone, you can use an option -p  
 `python make_video.py dir_low_fps_pictures -p`  
 Then, it produces a video adapting  low fps pictures.
+
+test
